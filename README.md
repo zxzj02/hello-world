@@ -1,3 +1,3 @@
 # hello-world
-some description 
+some description: 
 This is a readme
